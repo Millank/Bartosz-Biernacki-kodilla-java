@@ -1,70 +1,12 @@
-Board [Project number 1]
- List [In Progress Tasks]
-" Task [In Progress Task number 1]
-" Task [In Progress Task number 2]
-" Task [In Progress Task number 3]
-" Task [In Progress Task number 4]
-" Task [In Progress Task number 5]
-" Task [In Progress Task number 6]
-" Task [In Progress Task number 7]
-" Task [In Progress Task number 8]
-" Task [In Progress Task number 9]
-# Task [In Progress Task number 10]
- List [Done Tasks]
- Task [Done Task number 1]
- Task [Done Task number 2]
- Task [Done Task number 3]
- Task [Done Task number 4]
- Task [Done Task number 5]
- Task [Done Task number 6]
- Task [Done Task number 7]
- Task [Done Task number 8]
- Task [Done Task number 9]
- Task [Done Task number 10]
- List [To Do Tasks]
- Task [To Do Task number 1]
- Task [To Do Task number 2]
- Task [To Do Task number 3]
- Task [To Do Task number 4]
- Task [To Do Task number 5]
- Task [To Do Task number 6]
- Task [To Do Task number 7]
- Task [To Do Task number 8]
- Task [To Do Task number 9]
- Task [To Do Task number 10]
-
-Board [Project number 2]
- List [In Progress Tasks]
-" Task [In Progress Task number 1]
-" Task [In Progress Task number 2]
-" Task [In Progress Task number 3]
-" Task [In Progress Task number 4]
-" Task [In Progress Task number 5]
-" Task [In Progress Task number 6]
-" Task [In Progress Task number 7]
-" Task [In Progress Task number 8]
-" Task [In Progress Task number 9]
-# Task [In Progress Task number 10]
- List [Done Tasks]
- Task [Done Task number 1]
- Task [Done Task number 2]
- Task [Done Task number 3]
- Task [Done Task number 4]
- Task [Done Task number 5]
- Task [Done Task number 6]
- Task [Done Task number 7]
- Task [Done Task number 8]
- Task [Done Task number 9]
- Task [Done Task number 10]
- List [To Do Tasks]
- Task [To Do Task number 1]
- Task [To Do Task number 2]
- Task [To Do Task number 3]
- Task [To Do Task number 4]
- Task [To Do Task number 5]
- Task [To Do Task number 6]
- Task [To Do Task number 7]
- Task [To Do Task number 8]
- Task [To Do Task number 9]
- Task [To Do Task number 10]
-
+Very small shopping:
+buying 0,500000 kg of bread
+Very big painting:
+)painting house elevation in yellow color
+Very small painting:
+painting door in white color
+Very long way driving:
+$driving to New York using aeroplane
+Very short way driving:
+driving to Warsaw using a car
+Expensive shopping:
+buying 1,000000 item of house

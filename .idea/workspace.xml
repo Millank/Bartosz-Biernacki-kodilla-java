@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce78b444-f69a-41bb-ac24-f0c0d2a650da" name="Default" comment="Kodilla Course">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/jvmClassSignatures.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/jvmClassSignatures.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/classes/com.kodilla.jdbc.StoredPostTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/classes/com.kodilla.jdbc.StoredPostTestSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/packages/com.kodilla.jdbc.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/build/reports/tests/test/packages/com.kodilla.jdbc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/build/test-results/test/TEST-com.kodilla.jdbc.StoredPostTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/build/test-results/test/TEST-com.kodilla.jdbc.StoredPostTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-jdbc/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-jdbc/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/reports/tests/test/classes/com.kodilla.patterns.prototype.BoardTestSuite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/reports/tests/test/packages/com.kodilla.patterns.prototype.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/TEST-com.kodilla.patterns.prototype.BoardTestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.SpringRunnerTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.SpringRunnerTestSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.forum.ForumUserTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.forum.ForumUserTestSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.library.LibraryTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.library.LibraryTestSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.portfolio.BoardConfigTestSuite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.portfolio.BoardConfigTestSuiteWithRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.portfolio.BoardConfigTestSuiteWithRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.forum.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.forum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.library.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.library.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.SpringRunnerTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.SpringRunnerTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.forum.ForumUserTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.forum.ForumUserTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.library.LibraryTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.library.LibraryTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.portfolio.BoardConfigTestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.portfolio.BoardConfigTestSuiteWithRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.portfolio.BoardConfigTestSuiteWithRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/classes/com.kodilla.stream.portfolio.BoardTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/classes/com.kodilla.stream.portfolio.BoardTestSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/packages/com.kodilla.stream.portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build/reports/tests/test/packages/com.kodilla.stream.portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/build/test-results/test/TEST-com.kodilla.stream.portfolio.BoardTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build/test-results/test/TEST-com.kodilla.stream.portfolio.BoardTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -71,52 +112,101 @@
         <task path="$PROJECT_DIR$/kodilla-testing">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/kodilla-spring-web">
+          <activation />
+        </task>
         <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="CrudAppTestingApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/crudapp/CrudAppTestingApp.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShapeFactoryTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleItem.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/invoice/simple/SimpleItem.java">
+      <file leaf-file-name="TaskFactoryTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleTestingApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
+      <file leaf-file-name="DbManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDriverConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java">
+      <file leaf-file-name="TaskListDaoTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-hibernate/src/test/java/com/kodilla/hibernate/tasklist/dao/TaskListDaoTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="119">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvoiceDaoTestSuite.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla-hibernate/src/test/java/com/kodilla/hibernate/invoice/dao/InvoiceDaoTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultCacheAwareContextLoaderDelegate.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultTestContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/support/DefaultTestContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DependencyInjectionTestExecutionListener.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbManagerTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoredPostTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/StoredPostTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -2339,17 +2429,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1117" />
-    <option name="y" value="57" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1115" />
+    <option name="y" value="55" />
     <option name="width" value="4325" />
-    <option name="height" value="2013" />
+    <option name="height" value="2015" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -2358,18 +2450,227 @@
               <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="invoice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="tasklist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-hibernate" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bartosz-Biernacki-kodilla-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bartosz-Biernacki-kodilla-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -2384,55 +2685,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CrudAppTestingApp">
-    <configuration name="CrudAppTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing2.crudapp.CrudAppTestingApp" />
-      <module name="kodilla-testing2_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.testing2.crudapp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="GoogleTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing2.google.GoogleTestingApp" />
-      <module name="kodilla-testing2_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.testing2.google.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Gradle.InvoiceDaoTestSuite">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="build (2)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="Bartosz-Biernacki-kodilla-java" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+    <configuration name="DbManagerTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-jdbc" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.kodilla.jdbc.DbManagerTestSuite" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-jdbc:cleanTest" />
+            <option value=":kodilla-jdbc:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
     </configuration>
-    <configuration name="build (3)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="kodilla-exception" />
-      <setting name="path" value="file://$PROJECT_DIR$/kodilla-exception/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/kodilla-exception" />
-      <setting name="debug" value="false" />
+    <configuration name="InvoiceDaoTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-hibernate" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.kodilla.hibernate.invoice.dao.InvoiceDaoTestSuite" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-hibernate:cleanTest" />
+            <option value=":kodilla-hibernate:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
     </configuration>
-    <configuration name="settings (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="Bartosz-Biernacki-kodilla-java" />
-      <setting name="path" value="file://$PROJECT_DIR$/settings.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+    <configuration name="StoredPostTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-jdbc" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.kodilla.jdbc.StoredPostTestSuite" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-jdbc:cleanTest" />
+            <option value=":kodilla-jdbc:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="TaskFactoryTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-patterns" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.kodilla.patterns.factory.tasks.TaskFactoryTestSuite" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-patterns:cleanTest" />
+            <option value=":kodilla-patterns:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="TaskListDaoTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-hibernate" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests com.kodilla.hibernate.tasklist.dao.TaskListDaoTestSuite" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-hibernate:cleanTest" />
+            <option value=":kodilla-hibernate:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -2473,19 +2818,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Groovy.build (2)" />
-      <item itemvalue="Groovy.build (3)" />
-      <item itemvalue="Groovy.settings (1)" />
-      <item itemvalue="Application.CrudAppTestingApp" />
-      <item itemvalue="Application.GoogleTestingApp" />
+      <item itemvalue="Gradle.TaskFactoryTestSuite" />
+      <item itemvalue="Gradle.DbManagerTestSuite" />
+      <item itemvalue="Gradle.StoredPostTestSuite" />
+      <item itemvalue="Gradle.TaskListDaoTestSuite" />
+      <item itemvalue="Gradle.InvoiceDaoTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CrudAppTestingApp" />
-        <item itemvalue="Application.GoogleTestingApp" />
-        <item itemvalue="Groovy.settings (1)" />
-        <item itemvalue="Groovy.build (3)" />
-        <item itemvalue="Groovy.build (2)" />
+        <item itemvalue="Gradle.InvoiceDaoTestSuite" />
+        <item itemvalue="Gradle.TaskListDaoTestSuite" />
+        <item itemvalue="Gradle.StoredPostTestSuite" />
+        <item itemvalue="Gradle.DbManagerTestSuite" />
+        <item itemvalue="Gradle.TaskFactoryTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -2511,35 +2856,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionTestSuite - 2018.06.02 at 21h 36m 00s.xml">
-      <configuration name="CollectionTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="LoggerTestSuite_testSingleInstance - 2018.06.05 at 21h 58m 15s.xml">
+      <configuration name="LoggerTestSuite.testSingleInstance" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="StatisticsProcessorTestSuite - 2018.06.02 at 21h 36m 13s.xml">
-      <configuration name="StatisticsProcessorTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="LibraryTestSuite - 2018.06.05 at 21h 59m 39s.xml">
+      <configuration name="LibraryTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ForumTestSuite - 2018.06.02 at 21h 36m 23s.xml">
-      <configuration name="ForumTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShapeFactoryTestSuite - 2018.06.05 at 22h 02m 17s.xml">
+      <configuration name="ShapeFactoryTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ForumTestSuite_(1) - 2018.06.02 at 21h 36m 32s.xml">
-      <configuration name="ForumTestSuite (1)" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaskFactoryTestSuite - 2018.06.05 at 22h 02m 26s.xml">
+      <configuration name="TaskFactoryTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="BookDirectoryTestSuite - 2018.06.02 at 21h 36m 42s.xml">
-      <configuration name="BookDirectoryTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaskFactoryTestSuite - 2018.06.05 at 22h 05m 54s.xml">
+      <configuration name="TaskFactoryTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TestLoopAndConditionalBreakpoints - 2018.06.02 at 21h 36m 51s.xml">
-      <configuration name="TestLoopAndConditionalBreakpoints" configurationId="GradleRunConfiguration" />
+    <history-entry file="DbManagerTestSuite - 2018.06.05 at 22h 16m 47s.xml">
+      <configuration name="DbManagerTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShapeCollectorTestSuite - 2018.06.02 at 21h 37m 03s.xml">
-      <configuration name="ShapeCollectorTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="StoredPostTestSuite - 2018.06.05 at 22h 17m 32s.xml">
+      <configuration name="StoredPostTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WeatherForecastTestSuite - 2018.06.02 at 21h 37m 16s.xml">
-      <configuration name="WeatherForecastTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaskListDaoTestSuite - 2018.06.05 at 23h 44m 15s.xml">
+      <configuration name="TaskListDaoTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="WeatherForecastTestSuite_(1) - 2018.06.02 at 21h 37m 31s.xml">
-      <configuration name="WeatherForecastTestSuite (1)" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaskListDaoTestSuite - 2018.06.05 at 23h 45m 35s.xml">
+      <configuration name="TaskListDaoTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="BookDirectoryTestSuite - 2018.06.03 at 14h 01m 12s.xml">
-      <configuration name="BookDirectoryTestSuite" configurationId="GradleRunConfiguration" />
+    <history-entry file="InvoiceDaoTestSuite - 2018.06.05 at 23h 47m 34s.xml">
+      <configuration name="InvoiceDaoTestSuite" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -2562,19 +2907,20 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3286517" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2949438" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57865167" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.3286517" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.55617976" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28973842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24346076" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2588,16 +2934,17 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2977528" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2977528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -2607,7 +2954,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3286517" />
-      <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="8" />
@@ -2648,48 +2994,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Kodilla Course" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/User.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/reference/FunctionalCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/sand/Africa.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/sand/Asia.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/sand/Europe.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/sand/SandStorage.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Continent.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/Country.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/world/World.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/StreamMain.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/array/ArrayOperationsTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/forum/ForumUserTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/invoice/simple/SimpleInvoiceTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/calculator/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/collection/OddNumbersExterminator.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/Statistics.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/statistics/StatisticsProcessor.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumComment.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumPost.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/forum/ForumUser.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/library/Book.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/library/BookLibrary.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/library/LibraryDatabase.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/library/LibraryUser.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Circle.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Shape.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/ShapeCollector.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Square.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/shape/Triangle.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/user/SimpleUser.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/Temperatures.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/weather/stub/WeatherForecast.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/main/java/com/kodilla/testing/TestingMain.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/collection/CollectionTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/statistics/StatisticsProcessorTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/tdd/ForumTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/forum/ForumTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/library/BookDirectoryTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/loop/TestLoopAndConditionalBreakpoints.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/shape/ShapeCollectorTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/mock/WeatherForecastTestSuite.java" />
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/TemperaturesStub.java" />
     <entry file="file://$PROJECT_DIR$/kodilla-testing/src/test/java/com/kodilla/testing/weather/stub/WeatherForecastTestSuite.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2704,26 +3008,6 @@
         <state relative-caret-position="-2098" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/crudapp/CrudAppTestingApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -2735,6 +3019,324 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2311">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/FirstChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/Flight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/Flights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/FlightSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SecondChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/RouteNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/challenges/MovieStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/challenges/MoviesPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/ordering/OrderRequestRetriever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/ordering/OrderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/ordering/OrderProcessResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/ordering/OrderProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/ordering/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/data/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/data/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/calculator/CalculatorTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/forum/ForumUserTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/forum/ForumUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/food2door/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/com/kodilla/good/patterns/orders/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/portfolio/BoardTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring-web/src/test/java/com/kodilla/spring/web/KodillaSpringWebApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/tasks/TaskFactoryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/StoredPostTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-hibernate/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/support/DefaultTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Kodilla/Development/Projects/kodilla-course/.gradle/4.4.1/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.13.RELEASE/794f3037663bf178709ec8e03d9fb3ccf594c853/spring-test-4.3.13.RELEASE-sources.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-hibernate/src/test/java/com/kodilla/hibernate/tasklist/dao/TaskListDaoTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-hibernate/src/test/java/com/kodilla/hibernate/invoice/dao/InvoiceDaoTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2790,11 +3392,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>bartosz-biernacki-kodilla-java-master</last-edited>
+          <last-edited>kodilla-hibernate|kodilla-hibernate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

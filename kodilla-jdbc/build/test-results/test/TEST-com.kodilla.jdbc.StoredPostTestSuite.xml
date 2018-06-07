@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.jdbc.StoredPostTestSuite" tests="2" skipped="0" failures="2" errors="0" timestamp="2018-06-01T21:47:49" hostname="DESKTOP-7LAPE2A" time="4.265">
+<testsuite name="com.kodilla.jdbc.StoredPostTestSuite" tests="2" skipped="0" failures="2" errors="0" timestamp="2018-06-05T20:17:27" hostname="DESKTOP-7LAPE2A" time="4.264">
   <properties/>
-  <testcase name="testUpdateBestsellers" classname="com.kodilla.jdbc.StoredPostTestSuite" time="2.203">
+  <testcase name="testUpdateBestsellers" classname="com.kodilla.jdbc.StoredPostTestSuite" time="2.187">
     <failure message="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure&#10;&#10;The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." type="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException">com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
@@ -88,7 +88,7 @@ Caused by: java.net.ConnectException: Connection refused: connect
 	... 62 more
 </failure>
   </testcase>
-  <testcase name="testUpdateVipLevels" classname="com.kodilla.jdbc.StoredPostTestSuite" time="2.062">
+  <testcase name="testUpdateVipLevels" classname="com.kodilla.jdbc.StoredPostTestSuite" time="2.077">
     <failure message="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure&#10;&#10;The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." type="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException">com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
