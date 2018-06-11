@@ -1,12 +1,2 @@
-Very small shopping:
-buying 0,500000 kg of bread
-Very big painting:
-)painting house elevation in yellow color
-Very small painting:
-painting door in white color
-Very long way driving:
-$driving to New York using aeroplane
-Very short way driving:
-driving to Warsaw using a car
-Expensive shopping:
-buying 1,000000 item of house
+¼Limits{rolls=[sesame, basic], sauces=[standard, barbecue, thousand islands], ingredients=[mushrooms, bacon, onion, cucumber, lettuce, prawns, chilli, cheese], minBurgers=1, maxBurgers=3}
+`Bigmac{roll='sesame', sauce='thousand islands', burgers=2, ingredients=[bacon, onion, cheese]}

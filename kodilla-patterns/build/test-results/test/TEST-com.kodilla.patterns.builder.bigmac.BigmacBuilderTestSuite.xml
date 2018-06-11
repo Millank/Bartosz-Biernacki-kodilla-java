@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-06-07T21:54:21" hostname="DESKTOP-7LAPE2A" time="0.015">
+  <properties/>
+  <testcase name="testBuildMissingSauce" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.015"/>
+  <testcase name="testRollAfterBuild" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBurgersRepeatedCall" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBuildAfterBuild" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testRollRepeatedCall" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBuildMissingBurgers" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testIngredientBeyondLimits" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testSauceBeyondLimits" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBuildWithoutIngredients" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBuildMissingRoll" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testSauceRepeatedCall" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBurgersBeyondLimits" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testBuildWithIngredients" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testRollBeyondLimits" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testSauceAfterBuild" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <testcase name="testIngredientAfterBuild" classname="com.kodilla.patterns.builder.bigmac.BigmacBuilderTestSuite" time="0.0"/>
+  <system-out><![CDATA[Limits{rolls=[sesame, basic], sauces=[standard, barbecue, thousand islands], ingredients=[mushrooms, bacon, onion, cucumber, lettuce, prawns, chilli, cheese], minBurgers=1, maxBurgers=3}
+Bigmac{roll='sesame', sauce='thousand islands', burgers=2, ingredients=[bacon, onion, cheese]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

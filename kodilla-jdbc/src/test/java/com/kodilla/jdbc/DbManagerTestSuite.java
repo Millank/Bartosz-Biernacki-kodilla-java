@@ -2,10 +2,10 @@ package com.kodilla.jdbc;
 
 import org.junit.Test;
 import java.sql.*;
-
 import static org.junit.Assert.*;
 
 public class DbManagerTestSuite {
+
     @Test
     public void testConnect() throws SQLException {
         // Given
@@ -20,24 +20,28 @@ public class DbManagerTestSuite {
 
     @Test
     public void testSelectUsers() throws SQLException {
+
         //Given
         DbManager dbManager = DbManager.getInstance();
 
         //When
         String sqlQuery = "SELECT * FROM USERS";
-        Statement statement = dbManager.getConnection().createStatement();
-        ResultSet rs = statement.executeQuery(sqlQuery);
 
-        //Then
-        int counter = 0;
-        while(rs.next()) {
-            System.out.println(rs.getInt("ID") + ", " +
-                    rs.getString("FIRSTNAME") + ", " +
-                    rs.getString("LASTNAME"));
-            counter++;
+        int counter;
+        try (Statement statement = dbManager.getConnection().createStatement()) {
+            ResultSet rs = statement.executeQuery(sqlQuery);
+
+            //Then
+            counter = 0;
+            while (rs.next()) {
+                System.out.println(rs.getInt("ID") + ", " +
+                        rs.getString("FIRSTNAME") + ", " +
+                        rs.getString("LASTNAME"));
+                counter++;
+            }
+            rs.close();
+            statement.close();
         }
-        rs.close();
-        statement.close();
 
         assertEquals(5, counter);
     }
@@ -45,15 +49,16 @@ public class DbManagerTestSuite {
     // Essential data and some metadata obtained from query result
     //@Test
     public void testSelectUsersAndPostsAsStatement() throws SQLException {
+
         //Given
         DbManager dbManager = DbManager.getInstance();
 
         //When
         String sqlQuery = "SELECT U.FIRSTNAME AS FIRST_NAME, U.LASTNAME AS LAST_NAME, COUNT(U.ID) AS USER_POSTS " +
-                          "FROM USERS U JOIN POSTS P ON U.ID = P.USER_ID " +
-                          "GROUP BY U.ID " +
-                          "HAVING USER_POSTS >= 2 " +
-                          "ORDER BY LAST_NAME, FIRST_NAME, USER_POSTS";
+                "FROM USERS U JOIN POSTS P ON U.ID = P.USER_ID " +
+                "GROUP BY U.ID " +
+                "HAVING USER_POSTS >= 2 " +
+                "ORDER BY LAST_NAME, FIRST_NAME, USER_POSTS";
         Statement statement = dbManager.getConnection().createStatement();
         ResultSet rs = statement.executeQuery(sqlQuery);
         ResultSetMetaData rsmd = rs.getMetaData();
